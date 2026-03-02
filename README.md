@@ -4,14 +4,6 @@ A series of technical talks covering **quantitative finance, machine learning, s
 
 ---
 
-## Featured Episode (Latest)
-
-| Episode | Title | Duration | Link | Description |
-|---------|-------|----------|------|-------------|
-| 7 | Quantyma Talk 7 – Integrated Case Study | 12 min | [Watch](LINK_DO_VIDEO) | A full case study integrating finance, ML, and coding examples. Highest production quality. |
-
----
-
 ## All Episodes (Chronological)
 
 | Episode | Title | Duration | Link | Description |
